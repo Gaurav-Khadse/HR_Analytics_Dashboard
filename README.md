@@ -131,8 +131,6 @@ Males show higher attrition overall, but this varies by age band.
 
 - 📝 Job Satisfaction Analysis
 
- Key findings:
-
   - Highest satisfaction seen in Sales Executives and Research Scientists
 
   - Lower satisfaction ratings appear in Human Resources and Manufacturing Director roles
