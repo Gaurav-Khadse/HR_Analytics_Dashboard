@@ -54,6 +54,9 @@ This Tableau project aims to deliver actionable HR insights through advanced vis
 
 The Tableau dashboard includes:
 
+<img width="1277" height="720" alt="image" src="https://github.com/user-attachments/assets/5fbce989-07e2-4ff7-b6b3-86c399026084" />
+
+
 - ## 🔎 Interactive Filters
 
   - Gender
