@@ -151,8 +151,6 @@ Fields with specialized skills appear more susceptible to turnover.
 
 - 📊 Attrition Rate by Gender & Age
 
-Patterns observed:
-
   - 25–34 age group shows highest attrition, with males dominating the count
 
   - Over 55 shows minimal attrition, indicating stability near retirement
