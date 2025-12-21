@@ -194,4 +194,4 @@ Evaluate talent pipeline maturity by age and education
 
 Final Insight
 
-“Attrition is heavily concentrated in mid-career employees, particularly in R&D and Sales departments. Male attrition is significantly higher across most age groups. Improving job satisfaction — especially in HR and managerial roles — and focusing on development programs for high-skill education fields can greatly enhance retention and workforce stability.”
+“Attrition is heavily concentrated in mid-career employees, particularly in R&D and Sales departments. Male attrition is significantly higher across most age groups. Improving job satisfaction especially in HR and managerial roles and focusing on development programs for high skill education fields can greatly enhance retention and workforce stability.”
